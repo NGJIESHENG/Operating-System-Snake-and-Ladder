@@ -61,7 +61,7 @@ Step 3: Following Prompts
 7. TEAM MEMBERS & ROLES
 -----------------------
 NG JIE SHENG - Server Core, Forking, Process Management
-[Member 2]   - Client/Game Logic, Round Robin Scheduler
-[Member 3]   - Shared Memory, Networking, IPC
-[Member 4]   - Logger, Persistence, scores.txt management
+Ivan Cheah Ka Jun   - Client/Game Logic, Round Robin Scheduler
+Tey Hui Sze  - Shared Memory, Networking, IPC
+Pan Han Cheng   - Logger, Persistence, scores.txt management
 ======================================================================
