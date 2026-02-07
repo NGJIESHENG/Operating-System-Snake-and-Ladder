@@ -1,592 +1,129 @@
-1770278951: PLAYER_JOIN connected.
-1770278955: PLAYER_JOIN connected.
-1770278961: PLAYER_JOIN connected.
-1770278966: GAME_START: New game began.
-1770278969: MOVE: a rolled 2 to 2
-1770278971: MOVE: b rolled 2 to 2
-1770278974: MOVE: c rolled 2 to 2
-1770278979: MOVE: a rolled 5 to 7
-1770278982: MOVE: b rolled 5 to 7
-1770278984: MOVE: c rolled 5 to 7
-1770278986: MOVE: a rolled 4 to 11
-1770278988: MOVE: b rolled 4 to 11
-1770278992: MOVE: c rolled 4 to 11
-1770278994: MOVE: a rolled 2 to 13
-1770278996: MOVE: b rolled 2 to 13
-1770278997: MOVE: c rolled 2 to 13
-1770278999: MOVE: a rolled 6 to 19
-1770279002: MOVE: b rolled 6 to 19
-1770279004: MOVE: c rolled 6 to 19
-1770279006: MOVE: a rolled 2 to 42
-1770279008: MOVE: b rolled 2 to 42
-1770279009: MOVE: c rolled 2 to 42
-1770279011: MOVE: a rolled 5 to 47
-1770279012: MOVE: b rolled 5 to 47
-1770279014: MOVE: c rolled 5 to 47
-1770279015: MOVE: a rolled 1 to 48
-1770279017: MOVE: b rolled 1 to 48
-1770279018: MOVE: c rolled 1 to 48
-1770279020: MOVE: a rolled 4 to 52
-1770279021: MOVE: b rolled 4 to 52
-1770279023: MOVE: c rolled 4 to 52
-1770279032: MOVE: a rolled 2 to 34
-1770279034: MOVE: b rolled 2 to 34
-1770279159: PLAYER_JOIN connected.
-1770279165: PLAYER_JOIN connected.
-1770279170: PLAYER_JOIN connected.
-1770279176: GAME_START: New game began.
-1770279178: MOVE: a rolled 5 to 5
-1770279181: MOVE: b rolled 5 to 5
-1770279183: MOVE: c rolled 5 to 5
-1770279185: MOVE: a rolled 4 to 31
-1770279187: MOVE: b rolled 4 to 31
-1770279189: MOVE: c rolled 4 to 31
-1770279351: PLAYER_JOIN connected.
-1770279355: PLAYER_JOIN connected.
-1770279359: PLAYER_JOIN connected.
-1770279365: GAME_START: New game began.
-1770279367: MOVE: a rolled 4 to 14
-1770279370: MOVE: b rolled 6 to 6
-1770279373: MOVE: c rolled 4 to 14
-1770279376: MOVE: a rolled 6 to 20
-1770279386: MOVE: b rolled 5 to 11
-1770279392: MOVE: c rolled 1 to 15
-1770279396: MOVE: a rolled 1 to 42
-1770279397: MOVE: b rolled 5 to 16
-1770279400: MOVE: c rolled 4 to 19
-1770279402: MOVE: a rolled 3 to 45
-1770279404: MOVE: b rolled 4 to 20
-1770279405: MOVE: c rolled 6 to 25
-1770279407: MOVE: a rolled 2 to 47
-1770279408: MOVE: b rolled 2 to 22
-1770279410: MOVE: c rolled 2 to 27
-1770279411: MOVE: a rolled 6 to 53
-1770279413: MOVE: b rolled 2 to 24
-1770279414: MOVE: c rolled 3 to 30
-1770279415: MOVE: a rolled 6 to 59
-1770279416: MOVE: b rolled 3 to 27
-1770279418: MOVE: c rolled 2 to 32
-1770279419: MOVE: a rolled 2 to 61
-1770279420: MOVE: b rolled 6 to 33
-1770279422: MOVE: c rolled 2 to 34
-1770279423: MOVE: a rolled 1 to 19
-1770279429: MOVE: b rolled 4 to 37
-1770279430: MOVE: c rolled 1 to 35
-1770279432: MOVE: a rolled 6 to 25
-1770279433: MOVE: b rolled 4 to 41
-1770279434: MOVE: c rolled 3 to 38
-1770279435: MOVE: a rolled 6 to 31
-1770279437: MOVE: b rolled 1 to 42
-1770279438: MOVE: c rolled 6 to 44
-1770279439: MOVE: a rolled 6 to 37
-1770279440: MOVE: b rolled 2 to 44
-1770279441: MOVE: c rolled 5 to 49
-1770279442: MOVE: a rolled 6 to 43
-1770279444: MOVE: b rolled 4 to 48
-1770279445: MOVE: c rolled 3 to 52
-1770279446: MOVE: a rolled 6 to 49
-1770279447: MOVE: b rolled 5 to 53
-1770279449: MOVE: c rolled 5 to 57
-1770279450: MOVE: a rolled 3 to 52
-1770279451: MOVE: b rolled 4 to 57
-1770279452: MOVE: c rolled 3 to 60
-1770279453: MOVE: a rolled 6 to 58
-1770279454: MOVE: b rolled 5 to 19
-1770279455: MOVE: c rolled 5 to 65
-1770279457: MOVE: a rolled 5 to 63
-1770279458: MOVE: b rolled 6 to 25
-1770279460: MOVE: c rolled 4 to 69
-1770279461: MOVE: a rolled 2 to 65
-1770279462: MOVE: b rolled 1 to 26
-1770279463: MOVE: c rolled 4 to 73
-1770279465: MOVE: a rolled 5 to 70
-1770279466: MOVE: b rolled 6 to 32
-1770279467: MOVE: c rolled 4 to 77
-1770279468: MOVE: a rolled 1 to 91
-1770279471: MOVE: b rolled 2 to 34
-1770279472: MOVE: c rolled 4 to 81
-1770279473: MOVE: a rolled 5 to 96
-1770279475: MOVE: b rolled 4 to 38
-1770279476: MOVE: c rolled 6 to 24
-1770279478: MOVE: a rolled 3 to 99
-1770279490: MOVE: b rolled 5 to 43
-1770279491: MOVE: c rolled 1 to 25
-1770279493: MOVE: a rolled 6 to 99
-1770279495: MOVE: b rolled 1 to 44
-1770279496: MOVE: c rolled 3 to 84
-1770279497: MOVE: a rolled 6 to 99
-1770279499: MOVE: b rolled 6 to 50
-1770279500: MOVE: c rolled 4 to 88
-1770279502: MOVE: a rolled 4 to 99
-1770279503: MOVE: b rolled 4 to 34
-1770279504: MOVE: c rolled 3 to 91
-1770279505: MOVE: a rolled 1 to 100
-1770280161: PLAYER_JOIN connected.
-1770280165: PLAYER_JOIN connected.
-1770280170: PLAYER_JOIN connected.
-1770280175: GAME_START: New game began.
-1770280177: MOVE: a rolled 2 to 2
-1770280179: MOVE: b rolled 2 to 2
-1770280181: MOVE: c rolled 5 to 5
-1770280182: MOVE: a rolled 6 to 8
-1770280184: MOVE: b rolled 3 to 5
-1770280186: MOVE: c rolled 5 to 10
-1770280187: MOVE: a rolled 6 to 14
-1770280189: MOVE: b rolled 1 to 6
-1770280193: MOVE: c rolled 5 to 15
-1770280194: MOVE: a rolled 5 to 19
-1770280196: MOVE: b rolled 6 to 12
-1770280197: MOVE: c rolled 3 to 18
-1770280198: MOVE: a rolled 2 to 42
-1770280201: MOVE: b rolled 3 to 15
-1770280202: MOVE: c rolled 1 to 19
-1770280204: MOVE: a rolled 6 to 48
-1770280205: MOVE: b rolled 5 to 20
-1770280206: MOVE: c rolled 1 to 20
-1770280207: MOVE: a rolled 6 to 34
-1770280211: MOVE: b rolled 6 to 26
-1770280212: MOVE: c rolled 6 to 26
-1770280213: MOVE: a rolled 2 to 44
-1770280214: MOVE: b rolled 3 to 29
-1770280215: MOVE: c rolled 2 to 84
-1770280216: MOVE: a rolled 2 to 46
-1770280220: MOVE: b rolled 4 to 33
-1770280221: MOVE: c rolled 5 to 89
-1770280223: MOVE: a rolled 6 to 52
-1770280224: MOVE: b rolled 4 to 37
-1770280225: MOVE: c rolled 4 to 73
-1770280227: MOVE: a rolled 6 to 58
-1770280229: MOVE: b rolled 3 to 40
-1770280230: MOVE: c rolled 6 to 79
-1770280231: MOVE: a rolled 3 to 61
-1770280233: MOVE: b rolled 6 to 46
-1770280234: MOVE: c rolled 6 to 85
-1770280235: MOVE: a rolled 6 to 67
-1770280238: MOVE: b rolled 6 to 52
-1770280239: MOVE: c rolled 3 to 88
-1770280241: MOVE: a rolled 1 to 68
-1770280242: MOVE: b rolled 4 to 56
-1770280244: MOVE: c rolled 3 to 91
-1770280245: MOVE: a rolled 1 to 69
-1770280247: MOVE: b rolled 6 to 19
-1770280250: MOVE: c rolled 3 to 94
-1770280251: MOVE: a rolled 4 to 73
-1770280253: MOVE: b rolled 6 to 25
-1770280255: MOVE: c rolled 2 to 96
-1770280256: MOVE: a rolled 1 to 74
-1770280257: MOVE: b rolled 5 to 30
-1770280259: MOVE: c rolled 1 to 97
-1770280260: MOVE: a rolled 3 to 77
-1770280265: MOVE: b rolled 1 to 31
-1770280267: MOVE: c rolled 3 to 100
-1770280970: PLAYER_JOIN connected.
-1770280974: PLAYER_JOIN connected.
-1770280979: PLAYER_JOIN connected.
-1770280985: GAME_START: New game began.
-1770280986: MOVE: a rolled 4 to 14
-1770280989: MOVE: b rolled 4 to 14
-1770280990: MOVE: c rolled 3 to 3
-1770280992: MOVE: a rolled 4 to 18
-1770280993: MOVE: b rolled 2 to 16
-1770280996: MOVE: c rolled 6 to 31
-1770280997: MOVE: a rolled 5 to 23
-1770280998: MOVE: b rolled 2 to 18
-1770281001: MOVE: c rolled 3 to 34
-1770281002: MOVE: a rolled 1 to 24
-1770281003: MOVE: b rolled 6 to 24
-1770281006: MOVE: c rolled 6 to 40
-1770281007: MOVE: a rolled 2 to 26
-1770281007: MOVE: b rolled 1 to 25
-1770281011: MOVE: c rolled 4 to 44
-1770281013: MOVE: a rolled 1 to 27
-1770281014: MOVE: b rolled 2 to 27
-1770281017: MOVE: c rolled 6 to 50
-1770281018: MOVE: a rolled 6 to 33
-1770281018: MOVE: b rolled 6 to 33
-1770281021: MOVE: c rolled 1 to 67
-1770281023: MOVE: a rolled 2 to 35
-1770281024: MOVE: b rolled 3 to 44
-1770281026: MOVE: c rolled 5 to 72
-1770281028: MOVE: a rolled 1 to 44
-1770281028: MOVE: b rolled 6 to 50
-1770281030: MOVE: c rolled 1 to 73
-1770281031: MOVE: a rolled 2 to 46
-1770281032: MOVE: b rolled 4 to 34
-1770281035: MOVE: c rolled 3 to 76
-1770281036: MOVE: a rolled 1 to 47
-1770281037: MOVE: b rolled 5 to 39
-1770281039: MOVE: c rolled 2 to 78
-1770281041: MOVE: a rolled 5 to 52
-1770281041: MOVE: b rolled 4 to 43
-1770281045: MOVE: c rolled 4 to 82
-1770281048: MOVE: a rolled 2 to 34
-1770281050: MOVE: b rolled 2 to 45
-1770281052: MOVE: c rolled 3 to 85
-1770281053: MOVE: a rolled 6 to 40
-1770281055: MOVE: b rolled 3 to 48
-1770281056: MOVE: c rolled 5 to 90
-1770281057: MOVE: a rolled 6 to 46
-1770281059: MOVE: b rolled 6 to 34
-1770281061: MOVE: c rolled 4 to 94
-1770281062: MOVE: a rolled 5 to 67
-1770281064: MOVE: b rolled 1 to 35
-1770281066: MOVE: c rolled 3 to 97
-1770281067: MOVE: a rolled 6 to 73
-1770281068: MOVE: b rolled 5 to 40
-1770281070: MOVE: c rolled 2 to 99
-1770281071: MOVE: a rolled 2 to 75
-1770281073: MOVE: b rolled 2 to 42
-1770281074: MOVE: c rolled 1 to 100
-1770281585: PLAYER_JOIN connected.
-1770281596: PLAYER_JOIN connected.
-1770281601: PLAYER_JOIN connected.
-1770281606: GAME_START: New game began.
-1770281608: MOVE: a rolled 6 to 6
-1770281610: MOVE: b rolled 5 to 5
-1770281611: MOVE: c rolled 2 to 2
-1770281613: MOVE: a rolled 2 to 8
-1770281614: MOVE: b rolled 5 to 10
-1770281615: MOVE: c rolled 4 to 6
-1770281616: MOVE: a rolled 3 to 11
-1770281617: MOVE: b rolled 1 to 11
-1770281619: MOVE: c rolled 5 to 11
-1770281620: MOVE: a rolled 6 to 7
-1770281622: MOVE: b rolled 3 to 14
-1770281623: MOVE: c rolled 6 to 7
-1770281626: MOVE: a rolled 3 to 10
-1770281626: MOVE: b rolled 1 to 15
-1770281630: MOVE: c rolled 5 to 12
-1770281631: MOVE: a rolled 2 to 12
-1770281632: MOVE: b rolled 6 to 42
-1770281634: MOVE: c rolled 4 to 16
-1770281635: MOVE: a rolled 4 to 16
-1770281636: MOVE: b rolled 5 to 47
-1770281637: MOVE: c rolled 6 to 22
-1770281639: MOVE: a rolled 3 to 19
-1770281640: MOVE: b rolled 1 to 48
-1770281641: MOVE: c rolled 5 to 27
-1770281642: MOVE: a rolled 5 to 24
-1770281643: MOVE: b rolled 1 to 49
-1770281645: MOVE: c rolled 1 to 84
-1770281646: MOVE: a rolled 2 to 26
-1770281647: MOVE: b rolled 4 to 53
-1770281648: MOVE: c rolled 1 to 85
-1770281650: MOVE: a rolled 4 to 30
-1770281651: MOVE: b rolled 4 to 57
-1770281652: MOVE: c rolled 6 to 91
-1770281653: MOVE: a rolled 6 to 44
-1770281654: MOVE: b rolled 6 to 63
-1770281655: MOVE: c rolled 5 to 96
-1770281657: MOVE: a rolled 3 to 47
-1770281658: MOVE: b rolled 3 to 66
-1770281659: MOVE: c rolled 5 to 96
-1770281660: MOVE: a rolled 1 to 48
-1770281661: MOVE: b rolled 4 to 70
-1770281662: MOVE: c rolled 4 to 100
-1770281662: GAME_OVER: We have a winner.
-1770281712: PLAYER_JOIN connected.
-1770281717: PLAYER_JOIN connected.
-1770281722: PLAYER_JOIN connected.
-1770281728: GAME_START: New game began.
-1770281736: MOVE: a rolled 6 to 6
-1770281740: MOVE: b rolled 5 to 5
-1770281742: MOVE: c rolled 6 to 6
-1770281743: MOVE: a rolled 2 to 8
-1770281745: MOVE: b rolled 6 to 11
-1770281746: MOVE: c rolled 1 to 7
-1770281769: PLAYER_JOIN connected.
-1770281776: PLAYER_JOIN connected.
-1770281791: PLAYER_JOIN connected.
-1770281794: PLAYER_JOIN connected.
-1770281797: GAME_START: New game began.
-1770281798: MOVE: a rolled 3 to 3
-1770281800: MOVE: b rolled 6 to 6
-1770281801: MOVE: c rolled 5 to 5
-1770281822: TIMEOUT: Player skipped.
-1770281826: MOVE: a rolled 2 to 5
-1770281827: MOVE: b rolled 3 to 31
-1770281829: MOVE: c rolled 3 to 8
-1770281832: MOVE: d rolled 2 to 2
-1770281833: MOVE: a rolled 1 to 6
-1770281834: MOVE: b rolled 2 to 33
-1770281836: MOVE: c rolled 3 to 11
-1770281837: MOVE: d rolled 2 to 14
-1770281838: MOVE: a rolled 5 to 11
-1770281839: MOVE: b rolled 6 to 39
-1770281841: MOVE: c rolled 3 to 14
-1770281842: MOVE: d rolled 2 to 16
-1770281844: MOVE: a rolled 5 to 16
-1770281845: MOVE: b rolled 4 to 43
-1770281846: MOVE: c rolled 4 to 18
-1770281848: MOVE: d rolled 2 to 18
-1770281850: MOVE: a rolled 2 to 18
-1770281851: MOVE: b rolled 5 to 48
-1770281852: MOVE: c rolled 3 to 42
-1770281854: MOVE: d rolled 3 to 42
-1770281855: MOVE: a rolled 2 to 20
-1770281856: MOVE: b rolled 6 to 34
-1770281857: MOVE: c rolled 6 to 48
-1770281860: MOVE: d rolled 4 to 46
-1770281861: MOVE: a rolled 4 to 24
-1770281863: MOVE: b rolled 5 to 39
-1770281864: MOVE: c rolled 1 to 49
-1770281866: MOVE: d rolled 3 to 49
-1770281866: MOVE: a rolled 5 to 29
-1770281869: MOVE: b rolled 5 to 44
-1770281870: MOVE: c rolled 3 to 52
-1770281872: MOVE: d rolled 4 to 53
-1770281873: MOVE: a rolled 6 to 35
-1770281876: MOVE: b rolled 2 to 46
-1770281877: MOVE: c rolled 1 to 53
-1770281880: MOVE: d rolled 1 to 34
-1770281881: MOVE: a rolled 3 to 38
-1770281885: MOVE: b rolled 1 to 47
-1770281886: MOVE: c rolled 4 to 57
-1770281887: MOVE: d rolled 4 to 38
-1770281889: MOVE: a rolled 3 to 41
-1770281890: MOVE: b rolled 6 to 53
-1770281891: MOVE: c rolled 1 to 58
-1770281893: MOVE: d rolled 6 to 44
-1770281894: MOVE: a rolled 5 to 46
-1770281897: MOVE: b rolled 5 to 58
-1770281898: MOVE: c rolled 1 to 59
-1770281899: MOVE: d rolled 6 to 50
-1770281900: MOVE: a rolled 5 to 67
-1770281903: MOVE: b rolled 5 to 63
-1770281905: MOVE: c rolled 6 to 65
-1770281907: MOVE: d rolled 3 to 53
-1770281908: MOVE: a rolled 1 to 68
-1770281910: MOVE: b rolled 1 to 60
-1770281911: MOVE: c rolled 3 to 68
-1770281913: MOVE: d rolled 2 to 55
-1770281914: MOVE: a rolled 2 to 70
-1770281916: MOVE: b rolled 5 to 65
-1770281917: MOVE: c rolled 2 to 70
-1770281919: MOVE: d rolled 1 to 56
-1770281920: MOVE: a rolled 6 to 76
-1770281921: MOVE: b rolled 6 to 91
-1770281923: MOVE: c rolled 6 to 76
-1770281925: MOVE: d rolled 2 to 58
-1770281926: MOVE: a rolled 2 to 78
-1770281928: MOVE: b rolled 3 to 94
-1770281931: MOVE: c rolled 4 to 80
-1770281932: MOVE: d rolled 2 to 60
-1770281933: MOVE: a rolled 3 to 81
-1770281935: MOVE: b rolled 5 to 99
-1770281936: MOVE: c rolled 4 to 84
-1770281938: MOVE: d rolled 5 to 65
-1770281939: MOVE: a rolled 1 to 82
-1770281940: MOVE: b rolled 3 to 99
-1770281942: MOVE: c rolled 5 to 89
-1770281945: MOVE: d rolled 6 to 91
-1770281945: MOVE: a rolled 2 to 84
-1770281948: MOVE: b rolled 4 to 99
-1770281950: MOVE: c rolled 4 to 73
-1770281951: MOVE: d rolled 4 to 75
-1770281952: MOVE: a rolled 3 to 24
-1770281955: MOVE: b rolled 3 to 99
-1770281957: MOVE: c rolled 5 to 78
-1770281962: MOVE: d rolled 1 to 76
-1770281962: MOVE: a rolled 2 to 26
-1770281964: MOVE: b rolled 5 to 99
-1770281965: MOVE: c rolled 3 to 81
-1770281967: MOVE: d rolled 5 to 81
-1770281968: MOVE: a rolled 5 to 31
-1770281970: MOVE: b rolled 1 to 100
-1770281970: GAME_OVER: We have a winner.
-1770283399: PLAYER_JOIN connected.
-1770283402: PLAYER_JOIN connected.
-1770283419: PLAYER_JOIN connected.
-1770283421: PLAYER_JOIN connected.
-1770283425: GAME_START: New game began.
-1770283428: MOVE: a rolled 2 to 2
-1770283430: MOVE: b rolled 5 to 5
-1770283433: MOVE: c rolled 2 to 2
-1770283453: MOVE: d rolled 2 to 2
-1770283466: MOVE: a rolled 1 to 3
-1770283469: MOVE: b rolled 5 to 10
-1770283478: MOVE: c rolled 2 to 14
-1770283480: MOVE: d rolled 3 to 5
-1770283490: MOVE: a rolled 5 to 8
-1770283508: MOVE: b rolled 4 to 14
-1770283510: MOVE: c rolled 3 to 7
-1770283511: MOVE: d rolled 1 to 6
-1770283513: MOVE: a rolled 3 to 11
-1770283516: MOVE: b rolled 5 to 19
-1770283518: MOVE: c rolled 1 to 8
-1770283520: MOVE: d rolled 4 to 10
-1770283522: MOVE: a rolled 1 to 12
-1770283524: MOVE: b rolled 4 to 23
-1770283526: MOVE: c rolled 1 to 31
-1770283545: MOVE: d rolled 3 to 13
-1770283546: MOVE: a rolled 5 to 7
-1770283548: MOVE: b rolled 6 to 29
-1770283563: MOVE: c rolled 5 to 44
-1770283565: MOVE: d rolled 2 to 15
-1770283569: MOVE: a rolled 1 to 8
-1770283571: MOVE: b rolled 6 to 35
-1770283573: MOVE: c rolled 3 to 47
-1770283575: MOVE: d rolled 1 to 16
-1770283576: MOVE: a rolled 2 to 10
-1770283578: MOVE: b rolled 5 to 40
-1770283579: MOVE: c rolled 6 to 53
-1770283581: MOVE: d rolled 6 to 22
-1770283583: MOVE: a rolled 2 to 12
-1770283584: MOVE: b rolled 1 to 41
-1770283586: MOVE: c rolled 4 to 57
-1770283587: MOVE: d rolled 3 to 25
-1770283588: MOVE: a rolled 6 to 18
-1770283590: MOVE: b rolled 2 to 43
-1770283591: MOVE: c rolled 3 to 60
-1770283594: MOVE: d rolled 5 to 30
-1770283595: MOVE: a rolled 2 to 20
-1770283596: MOVE: b rolled 3 to 46
-1770283597: MOVE: c rolled 3 to 63
-1770283599: MOVE: d rolled 5 to 35
-1770283600: MOVE: a rolled 6 to 26
-1770283601: MOVE: b rolled 4 to 50
-1770283603: MOVE: c rolled 2 to 65
-1770283604: MOVE: d rolled 3 to 38
-1770283606: MOVE: a rolled 4 to 30
-1770283607: MOVE: b rolled 2 to 52
-1770283608: MOVE: c rolled 5 to 70
-1770283609: MOVE: d rolled 2 to 40
-1770283610: MOVE: a rolled 6 to 44
-1770283612: MOVE: b rolled 4 to 56
-1770283614: MOVE: c rolled 1 to 91
-1770283616: MOVE: d rolled 4 to 44
-1770283617: MOVE: a rolled 4 to 48
-1770283619: MOVE: b rolled 6 to 19
-1770283622: MOVE: c rolled 2 to 73
-1770283624: MOVE: d rolled 1 to 45
-1770283625: MOVE: a rolled 3 to 67
-1770283630: MOVE: b rolled 6 to 25
-1770283630: MOVE: c rolled 2 to 75
-1770283633: MOVE: d rolled 4 to 49
-1770283635: MOVE: a rolled 5 to 72
-1770283636: MOVE: b rolled 5 to 30
-1770283637: MOVE: c rolled 3 to 78
-1770283638: MOVE: d rolled 5 to 34
-1770283640: MOVE: a rolled 3 to 75
-1770283641: MOVE: b rolled 6 to 44
-1770283643: MOVE: c rolled 5 to 83
-1770283644: MOVE: d rolled 3 to 37
-1770283646: MOVE: a rolled 5 to 80
-1770283647: MOVE: b rolled 4 to 48
-1770283650: MOVE: c rolled 4 to 24
-1770283654: MOVE: d rolled 4 to 41
-1770283656: MOVE: a rolled 2 to 82
-1770283658: MOVE: b rolled 5 to 53
-1770283659: MOVE: c rolled 3 to 27
-1770283661: MOVE: d rolled 6 to 47
-1770283662: MOVE: a rolled 3 to 85
-1770283665: MOVE: b rolled 4 to 57
-1770283666: MOVE: c rolled 6 to 33
-1770283667: MOVE: d rolled 2 to 49
-1770283668: MOVE: a rolled 6 to 91
-1770283670: MOVE: b rolled 2 to 59
-1770283672: MOVE: c rolled 5 to 38
-1770283673: MOVE: d rolled 6 to 55
-1770283675: MOVE: a rolled 6 to 97
-1770283677: MOVE: b rolled 6 to 65
-1770283679: MOVE: c rolled 3 to 41
-1770283680: MOVE: d rolled 2 to 57
-1770283683: MOVE: a rolled 6 to 97
-1770283685: MOVE: b rolled 6 to 91
-1770283690: MOVE: c rolled 2 to 43
-1770283691: MOVE: d rolled 6 to 63
-1770283694: MOVE: a rolled 1 to 78
-1770283699: MOVE: b rolled 2 to 73
-1770283701: MOVE: c rolled 1 to 44
-1770283702: MOVE: d rolled 3 to 66
-1770283704: MOVE: a rolled 6 to 84
-1770283710: MOVE: b rolled 6 to 79
-1770283712: MOVE: c rolled 4 to 48
-1770283713: MOVE: d rolled 2 to 68
-1770283715: MOVE: a rolled 1 to 85
-1770283716: MOVE: b rolled 3 to 82
-1770283717: MOVE: c rolled 2 to 50
-1770283719: MOVE: d rolled 1 to 69
-1770283720: MOVE: a rolled 1 to 86
-1770283721: MOVE: b rolled 2 to 84
-1770283723: MOVE: c rolled 3 to 53
-1770283724: MOVE: d rolled 1 to 70
-1770283725: MOVE: a rolled 6 to 92
-1770283726: MOVE: b rolled 3 to 24
-1770283729: MOVE: c rolled 2 to 55
-1770283730: MOVE: d rolled 3 to 73
-1770283732: MOVE: a rolled 3 to 75
-1770283735: MOVE: b rolled 3 to 27
-1770283737: MOVE: c rolled 3 to 58
-1770283739: MOVE: d rolled 6 to 79
-1770283740: MOVE: a rolled 2 to 77
-1770283741: MOVE: b rolled 1 to 84
-1770283742: MOVE: c rolled 5 to 63
-1770283744: MOVE: d rolled 4 to 83
-1770283745: MOVE: a rolled 1 to 78
-1770283746: MOVE: b rolled 1 to 85
-1770283747: MOVE: c rolled 6 to 69
-1770283748: MOVE: d rolled 1 to 84
-1770283749: MOVE: a rolled 6 to 84
-1770283751: MOVE: b rolled 5 to 90
-1770283752: MOVE: c rolled 5 to 74
-1770283754: MOVE: d rolled 6 to 90
-1770283756: MOVE: a rolled 2 to 86
-1770283757: MOVE: b rolled 3 to 73
-1770283759: MOVE: c rolled 6 to 80
-1770283760: MOVE: d rolled 4 to 94
-1770283761: MOVE: a rolled 2 to 88
-1770283763: MOVE: b rolled 1 to 74
-1770283765: MOVE: c rolled 4 to 84
-1770283766: MOVE: d rolled 5 to 99
-1770283767: MOVE: a rolled 5 to 73
-1770283769: MOVE: b rolled 4 to 78
-1770283770: MOVE: c rolled 2 to 86
-1770283771: MOVE: d rolled 4 to 99
-1770283772: MOVE: a rolled 4 to 77
-1770283774: MOVE: b rolled 5 to 83
-1770283776: MOVE: c rolled 3 to 89
-1770283777: MOVE: d rolled 5 to 99
-1770283778: MOVE: a rolled 6 to 83
-1770283779: MOVE: b rolled 2 to 85
-1770283780: MOVE: c rolled 5 to 94
-1770283781: MOVE: d rolled 5 to 99
-1770283783: MOVE: a rolled 5 to 88
-1770283784: MOVE: b rolled 5 to 90
-1770283785: MOVE: c rolled 4 to 78
-1770283786: MOVE: d rolled 3 to 99
-1770283788: MOVE: a rolled 1 to 89
-1770283789: MOVE: b rolled 2 to 92
-1770283790: MOVE: c rolled 2 to 80
-1770283791: MOVE: d rolled 4 to 99
-1770283792: MOVE: a rolled 5 to 94
-1770283793: MOVE: b rolled 1 to 73
-1770283794: MOVE: c rolled 6 to 86
-1770283795: MOVE: d rolled 2 to 99
-1770283796: MOVE: a rolled 1 to 75
-1770283798: MOVE: b rolled 5 to 78
-1770283799: MOVE: c rolled 1 to 24
-1770283800: MOVE: d rolled 3 to 99
-1770283801: MOVE: a rolled 2 to 77
-1770283802: MOVE: b rolled 4 to 82
-1770283803: MOVE: c rolled 6 to 30
-1770283804: MOVE: d rolled 4 to 99
-1770283805: MOVE: a rolled 6 to 83
-1770283806: MOVE: b rolled 6 to 88
-1770283807: MOVE: c rolled 1 to 31
-1770283808: MOVE: d rolled 6 to 99
-1770283810: MOVE: a rolled 4 to 24
-1770283813: MOVE: b rolled 6 to 94
-1770283814: MOVE: c rolled 3 to 34
-1770283815: MOVE: d rolled 2 to 99
-1770283816: MOVE: a rolled 2 to 26
-1770283817: MOVE: b rolled 2 to 96
-1770283818: MOVE: c rolled 4 to 38
-1770283819: MOVE: d rolled 4 to 99
-1770283820: MOVE: a rolled 2 to 84
-1770283821: MOVE: b rolled 6 to 96
-1770283823: MOVE: c rolled 1 to 39
-1770283826: MOVE: d rolled 5 to 99
-1770283827: MOVE: a rolled 6 to 90
-1770283828: MOVE: b rolled 4 to 100
-1770283828: GAME_OVER: We have a winner.
+[Sat Feb  7 09:59:18 2026] PLAYER_JOIN: a connected.
+[Sat Feb  7 09:59:25 2026] PLAYER_JOIN: b connected.
+[Sat Feb  7 09:59:31 2026] PLAYER_JOIN: c connected.
+[Sat Feb  7 09:59:37 2026] GAME_START: New game began.
+[Sat Feb  7 09:59:39 2026] MOVE: a rolled 5 to 5
+[Sat Feb  7 09:59:40 2026] MOVE: b rolled 3 to 3
+[Sat Feb  7 09:59:41 2026] MOVE: c rolled 1 to 38
+[Sat Feb  7 09:59:43 2026] MOVE: a rolled 4 to 31
+[Sat Feb  7 09:59:45 2026] MOVE: b rolled 5 to 8
+[Sat Feb  7 09:59:46 2026] MOVE: c rolled 1 to 39
+[Sat Feb  7 09:59:48 2026] MOVE: a rolled 2 to 33
+[Sat Feb  7 09:59:50 2026] MOVE: b rolled 4 to 12
+[Sat Feb  7 09:59:51 2026] MOVE: c rolled 6 to 45
+[Sat Feb  7 09:59:53 2026] MOVE: a rolled 1 to 34
+[Sat Feb  7 09:59:54 2026] MOVE: b rolled 6 to 18
+[Sat Feb  7 09:59:56 2026] MOVE: c rolled 3 to 48
+[Sat Feb  7 09:59:57 2026] MOVE: a rolled 4 to 38
+[Sat Feb  7 09:59:58 2026] MOVE: b rolled 3 to 42
+[Sat Feb  7 10:00:00 2026] MOVE: c rolled 4 to 52
+[Sat Feb  7 10:00:01 2026] MOVE: a rolled 2 to 40
+[Sat Feb  7 10:00:03 2026] MOVE: b rolled 4 to 46
+[Sat Feb  7 10:00:04 2026] MOVE: c rolled 6 to 58
+[Sat Feb  7 10:00:05 2026] MOVE: a rolled 2 to 42
+[Sat Feb  7 10:00:07 2026] MOVE: b rolled 4 to 50
+[Sat Feb  7 10:00:08 2026] MOVE: c rolled 1 to 59
+[Sat Feb  7 10:00:09 2026] MOVE: a rolled 6 to 48
+[Sat Feb  7 10:00:10 2026] MOVE: b rolled 6 to 56
+[Sat Feb  7 10:00:12 2026] MOVE: c rolled 1 to 60
+[Sat Feb  7 10:00:13 2026] MOVE: a rolled 5 to 53
+[Sat Feb  7 10:00:14 2026] MOVE: b rolled 5 to 61
+[Sat Feb  7 10:00:15 2026] MOVE: c rolled 4 to 60
+[Sat Feb  7 10:00:17 2026] MOVE: a rolled 2 to 55
+[Sat Feb  7 10:00:18 2026] MOVE: b rolled 6 to 67
+[Sat Feb  7 10:00:19 2026] MOVE: c rolled 5 to 65
+[Sat Feb  7 10:00:20 2026] MOVE: a rolled 3 to 58
+[Sat Feb  7 10:00:21 2026] MOVE: b rolled 6 to 73
+[Sat Feb  7 10:00:22 2026] MOVE: c rolled 1 to 66
+[Sat Feb  7 10:00:23 2026] MOVE: a rolled 6 to 60
+[Sat Feb  7 10:00:24 2026] MOVE: b rolled 3 to 76
+[Sat Feb  7 10:00:25 2026] MOVE: c rolled 4 to 70
+[Sat Feb  7 10:00:26 2026] MOVE: a rolled 6 to 66
+[Sat Feb  7 10:00:27 2026] MOVE: b rolled 2 to 78
+[Sat Feb  7 10:00:28 2026] MOVE: c rolled 3 to 73
+[Sat Feb  7 10:00:30 2026] MOVE: a rolled 1 to 67
+[Sat Feb  7 10:00:31 2026] MOVE: b rolled 6 to 84
+[Sat Feb  7 10:00:32 2026] MOVE: c rolled 5 to 78
+[Sat Feb  7 10:00:33 2026] MOVE: a rolled 1 to 68
+[Sat Feb  7 10:00:34 2026] MOVE: b rolled 1 to 85
+[Sat Feb  7 10:00:35 2026] MOVE: c rolled 2 to 80
+[Sat Feb  7 10:00:36 2026] MOVE: a rolled 4 to 72
+[Sat Feb  7 10:00:38 2026] MOVE: b rolled 4 to 89
+[Sat Feb  7 10:00:40 2026] MOVE: c rolled 4 to 84
+[Sat Feb  7 10:00:41 2026] MOVE: a rolled 2 to 74
+[Sat Feb  7 10:00:42 2026] MOVE: b rolled 3 to 92
+[Sat Feb  7 10:00:43 2026] MOVE: c rolled 6 to 90
+[Sat Feb  7 10:00:45 2026] MOVE: a rolled 4 to 78
+[Sat Feb  7 10:00:47 2026] MOVE: b rolled 4 to 96
+[Sat Feb  7 10:00:48 2026] MOVE: c rolled 1 to 91
+[Sat Feb  7 10:00:49 2026] MOVE: a rolled 4 to 82
+[Sat Feb  7 10:00:50 2026] MOVE: b rolled 3 to 99
+[Sat Feb  7 10:00:51 2026] MOVE: c rolled 2 to 73
+[Sat Feb  7 10:00:53 2026] MOVE: a rolled 2 to 84
+[Sat Feb  7 10:00:54 2026] MOVE: b rolled 1 to 100
+[Sat Feb  7 10:00:54 2026] GAME_OVER: We have a winner.
+[Sat Feb  7 10:00:59 2026] GAME_RESET: Board cleared for new game.
+[Sat Feb  7 10:01:05 2026] GAME_START: New game began.
+[Sat Feb  7 10:01:06 2026] MOVE: a rolled 6 to 6
+[Sat Feb  7 10:01:07 2026] MOVE: b rolled 6 to 6
+[Sat Feb  7 10:01:08 2026] MOVE: c rolled 4 to 14
+[Sat Feb  7 10:01:10 2026] MOVE: a rolled 4 to 10
+[Sat Feb  7 10:01:12 2026] MOVE: b rolled 1 to 7
+[Sat Feb  7 10:01:13 2026] MOVE: c rolled 6 to 20
+[Sat Feb  7 10:01:14 2026] MOVE: a rolled 3 to 13
+[Sat Feb  7 10:01:15 2026] MOVE: b rolled 2 to 31
+[Sat Feb  7 10:01:16 2026] MOVE: c rolled 5 to 25
+[Sat Feb  7 10:01:18 2026] MOVE: a rolled 6 to 19
+[Sat Feb  7 10:01:19 2026] MOVE: b rolled 2 to 33
+[Sat Feb  7 10:01:20 2026] MOVE: c rolled 6 to 31
+[Sat Feb  7 10:01:21 2026] MOVE: a rolled 1 to 20
+[Sat Feb  7 10:01:22 2026] MOVE: b rolled 6 to 39
+[Sat Feb  7 10:01:23 2026] MOVE: c rolled 5 to 44
+[Sat Feb  7 10:01:24 2026] MOVE: a rolled 2 to 22
+[Sat Feb  7 10:01:26 2026] MOVE: b rolled 2 to 41
+[Sat Feb  7 10:01:27 2026] MOVE: c rolled 2 to 46
+[Sat Feb  7 10:01:28 2026] MOVE: a rolled 1 to 23
+[Sat Feb  7 10:01:29 2026] MOVE: b rolled 4 to 45
+[Sat Feb  7 10:01:30 2026] MOVE: c rolled 5 to 67
+[Sat Feb  7 10:01:31 2026] MOVE: a rolled 3 to 26
+[Sat Feb  7 10:01:33 2026] MOVE: b rolled 2 to 47
+[Sat Feb  7 10:01:34 2026] MOVE: c rolled 4 to 91
+[Sat Feb  7 10:01:36 2026] MOVE: a rolled 3 to 29
+[Sat Feb  7 10:01:37 2026] MOVE: b rolled 3 to 50
+[Sat Feb  7 10:01:38 2026] MOVE: c rolled 2 to 73
+[Sat Feb  7 10:01:39 2026] MOVE: a rolled 1 to 30
+[Sat Feb  7 10:01:41 2026] MOVE: b rolled 6 to 56
+[Sat Feb  7 10:01:42 2026] MOVE: c rolled 3 to 76
+[Sat Feb  7 10:01:43 2026] MOVE: a rolled 4 to 34
+[Sat Feb  7 10:01:44 2026] MOVE: b rolled 6 to 19
+[Sat Feb  7 10:01:45 2026] MOVE: c rolled 1 to 77
+[Sat Feb  7 10:01:46 2026] MOVE: a rolled 5 to 39
+[Sat Feb  7 10:01:48 2026] MOVE: b rolled 5 to 24
+[Sat Feb  7 10:01:49 2026] MOVE: c rolled 3 to 80
+[Sat Feb  7 10:01:50 2026] MOVE: a rolled 2 to 41
+[Sat Feb  7 10:01:51 2026] MOVE: b rolled 4 to 84
+[Sat Feb  7 10:01:52 2026] MOVE: c rolled 1 to 81
+[Sat Feb  7 10:01:53 2026] MOVE: a rolled 3 to 44
+[Sat Feb  7 10:01:54 2026] MOVE: b rolled 2 to 86
+[Sat Feb  7 10:01:55 2026] MOVE: c rolled 1 to 82
+[Sat Feb  7 10:01:56 2026] MOVE: a rolled 5 to 49
+[Sat Feb  7 10:01:57 2026] MOVE: b rolled 2 to 88
+[Sat Feb  7 10:01:58 2026] MOVE: c rolled 6 to 88
+[Sat Feb  7 10:01:59 2026] MOVE: a rolled 5 to 34
+[Sat Feb  7 10:02:01 2026] MOVE: b rolled 4 to 92
+[Sat Feb  7 10:02:02 2026] MOVE: c rolled 4 to 92
+[Sat Feb  7 10:02:03 2026] MOVE: a rolled 2 to 44
+[Sat Feb  7 10:02:04 2026] MOVE: b rolled 5 to 97
+[Sat Feb  7 10:02:05 2026] MOVE: c rolled 5 to 97
+[Sat Feb  7 10:02:06 2026] MOVE: a rolled 4 to 48
+[Sat Feb  7 10:02:07 2026] MOVE: b rolled 6 to 97
+[Sat Feb  7 10:02:08 2026] MOVE: c rolled 5 to 97
+[Sat Feb  7 10:02:09 2026] MOVE: a rolled 3 to 67
+[Sat Feb  7 10:02:10 2026] MOVE: b rolled 3 to 100
+[Sat Feb  7 10:02:10 2026] GAME_OVER: We have a winner.
+[Sat Feb  7 10:02:16 2026] GAME_RESET: Board cleared for new game.
+[Sat Feb  7 10:02:22 2026] GAME_START: New game began.
+[Sat Feb  7 10:02:43 2026] TIMEOUT: Player skipped.
+[Sat Feb  7 10:03:04 2026] TIMEOUT: Player skipped.
+[Sat Feb  7 10:03:25 2026] TIMEOUT: Player skipped.
+[Sat Feb  7 10:03:46 2026] TIMEOUT: Player skipped.

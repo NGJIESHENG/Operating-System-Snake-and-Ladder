@@ -3,11 +3,11 @@ CFLAGS = -Wall -pthread -lrt
 
 all: server client
 
-server: server.c ipc_shared.c
-	$(CC) server.c ipc_shared.c -o server $(CFLAGS)
+server: server.c
+	$(CC) server.c -o server $(CFLAGS)
 
 client: client.c
-	$(CC) client.c -o client
+	$(CC) client.c -o client $(CFLAGS)
 
 clean:
 	rm -f server client

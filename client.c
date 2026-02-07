@@ -6,7 +6,7 @@
 #include <arpa/inet.h>
 
 #define PORT 8080
-#define BUFFER_SIZE 4096 // Increased to handle the board visual
+#define BUFFER_SIZE 4096 
 
 int main() {
     int sock = 0, valread;
@@ -31,21 +31,33 @@ int main() {
         valread = recv(sock, buffer, BUFFER_SIZE, 0);
         if (valread <= 0) break;
 
+        
         if (strncmp(buffer, "YOUR_TURN|", 10) == 0) {
-            printf("\n%s", buffer + 10); // Print Board + Prompt
+            printf("\n%s", buffer + 10); 
             fgets(input, sizeof(input), stdin);
             send(sock, "ROLL", 4, 0);
         } 
+        
         else if (strncmp(buffer, "RESULT|", 7) == 0) {
             printf("\n--------------------------------\n");
             printf("%s", buffer + 7);
             printf("\n--------------------------------\n");
+
+           
+            char *game_over_ptr = strstr(buffer, "GAME_OVER|");
+            if (game_over_ptr) {
+                printf("\n********************************\n");
+                printf("%s", game_over_ptr + 10);
+                printf("\n********************************\n");
+            }
         }
+     
         else if (strncmp(buffer, "GAME_OVER|", 10) == 0) {
             printf("\n********************************\n");
             printf("%s", buffer + 10);
             printf("\n********************************\n");
         }
+ 
         else {
             printf("%s", buffer);
             if (strstr(buffer, "Enter Name")) {
